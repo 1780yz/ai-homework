@@ -1,0 +1,6 @@
+# Ignore the Python virtual environment directory
+venv/
+
+# Ignore the IDE project repository
+.idea/
+
