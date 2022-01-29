@@ -1,3 +1,7 @@
+Week 3 Homework
+--
+
+**Go through and run [Keras MNIST Tutorial](https://keras.io/examples/vision/mnist_convnet/), read and understand each line of code, and push your exercise code to the Github repository**
 
 Set up the Python environment with the below commands:
 
