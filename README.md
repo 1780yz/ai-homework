@@ -22,3 +22,14 @@ After setting up the environment above, run the program with the below steps:
 # Run the python script
 python.exe .\simple-mnist-convnet.py
 ~~~
+
+Week 4 Homework
+--
+
+**1. Go through and run [Pytorch MNIST Example](https://github.com/pytorch/examples/blob/master/mnist/main.py), read and understand each line of code (google it if not understand), fork the code, run and debug step through each line of the code via PyCharm, push your code and step-in screenshot to the Github repository**
+
+```shell
+# Run the python script
+python.exe .\pytorch-mnist.py
+```
+
