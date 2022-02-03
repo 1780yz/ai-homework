@@ -33,3 +33,4 @@ Week 4 Homework
 python.exe .\pytorch-mnist.py
 ```
 
+Also, see the attached [screenshot](./pytorch-mnist.py.screenshot.txt).
