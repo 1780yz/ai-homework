@@ -1,0 +1,13 @@
+C:\my\work\homework\ai-homework\venv\Scripts\python.exe C:/my/work/homework/ai-homework/pytorch-auto-encoder.py
+learning_rate:  20.0
+t: 0 , loss(mse):  tensor(0.6073, grad_fn=<SumBackward0>)
+t: 500 , loss(mse):  tensor(1.2973e-09, grad_fn=<SumBackward0>)
+t: 1000 , loss(mse):  tensor(1.7488e-13, grad_fn=<SumBackward0>)
+t: 1500 , loss(mse):  tensor(8.6953e-15, grad_fn=<SumBackward0>)
+t: 2000 , loss(mse):  tensor(6.8869e-15, grad_fn=<SumBackward0>)
+t: 2500 , loss(mse):  tensor(6.8869e-15, grad_fn=<SumBackward0>)
+t: 3000 , loss(mse):  tensor(6.8869e-15, grad_fn=<SumBackward0>)
+Finish
+y_pred:  tensor([[0.0100, 0.9900]], grad_fn=<SigmoidBackward0>)
+
+Process finished with exit code 0

@@ -47,7 +47,7 @@ def auto_grad_2(x, y, w1, w2, times):
     for t in range(times):
         y_pred = x.mm(w1).clamp(min=0).mm(w2)
         loss = (y_pred - y).pow(2).sum()
-
+        print('loss: \n', loss)
         loss.backward()
 
         with torch.no_grad():

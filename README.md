@@ -34,3 +34,16 @@ python.exe .\pytorch-mnist.py
 ```
 
 Also, see the attached [screenshot](./pytorch-mnist.py.screenshot.txt).
+
+**2. Implement the following network (with i1=0.05, i2=0.1, b1=0.35, o1=0.01, o2=0.99) and the training loop by [PyTorch Autograd in a similar way as this slide](https://docs.google.com/presentation/d/1wn6UONkzJTTA3XxSgzS1hmkFONoVt2X8TO-VFU6Uo-E/edit#slide=id.g9f8093ad43_0_429) and show the output screenshot in README (2 marks):**
+![The image of auto-encoder](./pic/auto-encoder.png)
+
+```shell
+# Run the python script
+python.exe .\pytorch-auto-encoder.py
+
+# Sample code from https://blog.csdn.net/abc13526222160/article/details/83817638
+python.exe .\auto-encoder.py
+```
+
+Also, we tentatively tuned the model to complete training within 3000 porches; see the attached [screenshot](./pytorch-auto-encoder.py.screenshot.txt).
